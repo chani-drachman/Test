@@ -122,6 +122,10 @@ right: 0;
     padding-left: 6px;
     background-color: transparent;
 }
+#inputDiv input:focus{
+    outline: none;
+}
+
 main {
     position: relative;
 }
